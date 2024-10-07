@@ -1,9 +1,9 @@
 <h1 align="center">Hello World!</h1>
 <h3 align="center">I'm Facundo, a backend developer from Argentina.</h3>
 
-🔭 I’m currently working as a Java Developer in Argentina 
+🔭 I’m currently working as a Java Developer at [Adistec](https://www.adistec.com/) 
 
-🌱 Trying to learn more about **Microservices** on [Atenea](https://github.com/fvillanueva/atenea) 
+🌱 Side project [Atenea](https://github.com/fvillanueva/atenea) 
 
   #### 📫 How to reach me:
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/facundo-villanueva/) &nbsp; <a href="mailto:facundovillanueva97@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
